@@ -3,7 +3,7 @@ Bu alanda https://ctf.hacker101.com/ctf sitesinde yer alan CTF alıştırmaları
 <ul>
   <li>Çözüm sıralamaları kendi çözüm adımlarıma göredir.</li>
   <li>Tablo ise alıştırmaların seviyesi kolaydan zora doğru olacak şekilde sıralanmıştır.</li>
-  <li>Çözümlere <a href="https://github.com/3rk1n/ctf.hackerone-cozum-adimlari/wiki">buradan</a> yada CTF ismine tıklayarak ulaşabilirsiniz
+  <li>Çözümlere <a href="https://github.com/3rk1n/ctf.hackerone-cozum-adimlari/wiki">buradan</a> yada CTF ismine tıklayarak ulaşabilirsiniz.
 </ul>
 
 | SEVİYE | KAZANILAN PUAN | CTF İSMİ | KATEGORİ | BULUNMASI GEREKEN BAYRAK SAYISI |
