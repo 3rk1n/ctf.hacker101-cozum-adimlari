@@ -1,6 +1,9 @@
 # ctf.hackerone-cozum-adimlari
 Bu alanda https://ctf.hacker101.com/ctf sitesinde yer alan CTF alıştırmalarının çözümleri yer almaktadır.
-Çözüm adımlarını kendi çözüm sırama göre, tabloyu ise seviyesi kolaydan zora doğru olacak şekilde oluşturdum.
+<ul>
+  <li>Çözüm sıralamaları kendi çözüm adımlarıma göredir.</li>
+  <li>Tablo ise alıştırmaların seviyesi kolaydan zora doğru olacak şekilde sıralanmıştır.</li>
+</ul>
 
 | SEVİYE | KAZANILAN PUAN | CTF İSMİ | KATEGORİ | BULUNMASI GEREKEN BAYRAK SAYISI |
 |--------|:---:|----------|----------|:---:|
