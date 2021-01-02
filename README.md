@@ -3,12 +3,12 @@ Bu alanda https://ctf.hacker101.com/ctf sitesinde yer alan CTF alıştırmaları
 <ul>
   <li>Çözüm sıralamaları kendi çözüm adımlarıma göredir.</li>
   <li>Tablo ise alıştırmaların seviyesi kolaydan zora doğru olacak şekilde sıralanmıştır.</li>
-  <li>Çözümlere <a href="https://github.com/3rk1n/ctf.hackerone-cozum-adimlari/wiki">buradan</a> yada CTF ismine tıklayarak ulaşabilirsiniz.
+  <li>Çözümlere <a href="https://github.com/3rk1n/ctf.hackerone-cozum-adimlari/wiki" target="_blank">buradan</a> yada CTF ismine tıklayarak ulaşabilirsiniz.
 </ul>
 
 | SEVİYE | KAZANILAN PUAN | CTF İSMİ | KATEGORİ | BULUNMASI GEREKEN BAYRAK SAYISI |
 |--------|:---:|----------|----------|:---:|
-|Trivial|1|<a href="https://github.com/3rk1n/ctf.hackerone-cozum-adimlari/wiki/A-little-something-to-get-you-started">A little something to get you started</a>|Web|1
+|Trivial|1|<a href="https://github.com/3rk1n/ctf.hackerone-cozum-adimlari/wiki/A-little-something-to-get-you-started" target="_blank">A little something to get you started</a>|Web|1
 |Easy|2|Micro-CMS v1|Web|4
 |Easy|4|Postbook|Web|7
 |Easy|3|Petshop Pro|Web|3
