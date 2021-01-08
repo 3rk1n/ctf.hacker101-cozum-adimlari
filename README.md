@@ -1,4 +1,4 @@
-# ctf.hackerone-cozum-adimlari
+# ctf.hacker101-cozum-adimlari
 Bu alanda https://ctf.hacker101.com/ctf sitesinde yer alan CTF alıştırmalarının çözümleri yer almaktadır.
 <ul>
   <li>Çözüm sıralamaları kendi çözüm adımlarıma göredir.</li>
