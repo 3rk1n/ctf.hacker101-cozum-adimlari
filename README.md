@@ -13,7 +13,7 @@ Bu alanda https://ctf.hacker101.com/ctf sitesinde yer alan CTF alıştırmaları
 |Easy|4|<a href="https://github.com/3rk1n/ctf.hacker101-cozum-adimlari/wiki/Postbook">Postbook|Web|7
 |Easy|3|Petshop Pro|Web|3
 |Easy|2|H1 Thermostat|Android|2
-|Easy|2|BugDB v1|Web, GraphQL|1
+|Easy|2|<a href="https://github.com/3rk1n/ctf.hacker101-cozum-adimlari/wiki/BugDB-v1">BugDB v1|Web, GraphQL|1
 |Easy|4|BugDB v2|Web, GraphQL|1
 |Moderate|3|Micro-CMS v2|Web|3
 |Moderate|6|Photo Gallery|Web|3
