@@ -11,7 +11,7 @@ Bu alanda https://ctf.hacker101.com/ctf sitesinde yer alan CTF alıştırmaları
 |Trivial|1|<a href="https://github.com/3rk1n/ctf.hackerone-cozum-adimlari/wiki/A-little-something-to-get-you-started">A little something to get you started</a>|Web|1
 |Easy|2|<a href="https://github.com/3rk1n/ctf.hacker101-cozum-adimlari/wiki/Micro-CMS-v1">Micro-CMS v1|Web|4
 |Easy|4|<a href="https://github.com/3rk1n/ctf.hacker101-cozum-adimlari/wiki/Postbook">Postbook|Web|7
-|Easy|3|Petshop Pro|Web|3
+|Easy|3|<a href="https://github.com/3rk1n/ctf.hacker101-cozum-adimlari/wiki/Petshop-ProPetshop Pro">|Web|3
 |Easy|2|H1 Thermostat|Android|2
 |Easy|2|<a href="https://github.com/3rk1n/ctf.hacker101-cozum-adimlari/wiki/BugDB-v1">BugDB v1|Web, GraphQL|1
 |Easy|4|<a href="https://github.com/3rk1n/ctf.hacker101-cozum-adimlari/wiki/BugDB-v2">BugDB v2|Web, GraphQL|1
